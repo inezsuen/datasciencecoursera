@@ -1,1 +1,1 @@
-# datasciencecoursera
+This folder contains my work related to Coursera's Data Science Specialization offered by Johns Hopkins University.
